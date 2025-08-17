@@ -1,5 +1,8 @@
 # ASME_Hackathon_2025
 
+Powerpoint Presentation [here]([https://decode.mit.edu/assets/papers/PRODUCTION_JCISE_DesignQA.pdf](https://docs.google.com/presentation/d/1o9Y9cwQ8u98wjftxNFlAM0JQ7NkSDWjM/edit?usp=drive_link&ouid=107658843354389870397&rtpof=true&sd=true))!
+
+
 # DesignQA Benchmark Solution: A Tuned RAG System for Engineering Documents
 
 This repository contains a complete, end-to-end solution for the **DesignQA benchmark**, which tests a Vision-Language Model's ability to understand and reason about complex engineering documents. Our approach utilizes a custom **Tuned Retrieval-Augmented Generation (RAG)** pipeline that leverages a structured **Knowledge Graph (KG)** to provide precise context to a Vision-Language Model.
