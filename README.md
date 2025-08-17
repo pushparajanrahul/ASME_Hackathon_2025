@@ -1,6 +1,6 @@
 # ASME_Hackathon_2025
 
-Powerpoint Presentation [here](https://decode.mit.edu/assets/papers/PRODUCTION_JCISE_DesignQA.pdf](https://docs.google.com/presentation/d/1o9Y9cwQ8u98wjftxNFlAM0JQ7NkSDWjM/edit?usp=drive_link&ouid=107658843354389870397&rtpof=true&sd=true)!
+Powerpoint Presentation [here](https://docs.google.com/presentation/d/1o9Y9cwQ8u98wjftxNFlAM0JQ7NkSDWjM/edit?usp=drive_link&ouid=107658843354389870397&rtpof=true&sd=true)!
 
 
 # DesignQA Benchmark Solution: A Tuned RAG System for Engineering Documents
